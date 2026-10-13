@@ -6,4 +6,4 @@
 - [Important Dates](https://www.georgebrown.ca/current-students/important-dates?term=27246&category=131)
 Step
 
-[Important points from each lecture](comp1238.md)
+-[Important points from each lecture](comp1238.md)
