@@ -28,5 +28,5 @@
 - **Thursday**
   - 8:00 [MATH1180](https://learn.georgebrown.ca/d2l/home/508275)
 
-- Friday
+- **Friday**
   - 11:00 [COMP1151](https://learn.georgebrown.ca/d2l/home/515478)
