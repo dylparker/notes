@@ -8,13 +8,12 @@
 
 - [Important points from each lecture](comp1238.md)
 
-
-## - Monday
+- **Monday**
       - 12:00
-      - 2:00
+      - 2:00      
       - 4:00
 
-## - Tuesday
+- Tuesday
 
 
 
