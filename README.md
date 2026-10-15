@@ -8,6 +8,9 @@
 
 - [Important points from each lecture](comp1238.md)
 
+
+## Schedule
+
 - **Monday**
   - 12:00 [COMP1151](https://learn.georgebrown.ca/d2l/home/515478)
   - 14:00 [COMP1236](https://learn.georgebrown.ca/d2l/home/514711)
