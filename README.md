@@ -7,3 +7,21 @@
 
 
 - [Important points from each lecture](comp1238.md)
+
+
+## - Monday
+- 12:\00
+- 
+
+
+## - Tuesday
+
+
+
+
+
+## - Wednesday
+
+## - Thursday
+
+## - Friday
